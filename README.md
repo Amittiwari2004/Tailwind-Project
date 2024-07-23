@@ -13,7 +13,7 @@
     <p>To get started with the Nike Shoes Website, follow these steps:</p>
     <ol>
         <li><strong>Clone the Repository:</strong>
-            <pre><code>git clone https://github.com/yourusername/nike-shoes-website.git</code></pre>
+            <pre><code>git clone https://github.com/Amittiwari2004/nike-shoes-website.git</code></pre>
         </li>
         <li><strong>Navigate to the Project Directory:</strong>
             <pre><code>cd nike-shoes-website</code></pre>
